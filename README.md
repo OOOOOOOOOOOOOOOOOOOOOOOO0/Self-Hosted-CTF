@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="http://clipart-library.com/img/2097656.jpg" width="150px"><br>
+	<img src="https://pasteboard.co/51zsbtTK7Z7o.jpg" width="150px"><br>
     Self Hosted CTF - A fun Capture The Flag-like game for beginners to enchance their web request skills!
 </h1>
 <p align="center">
