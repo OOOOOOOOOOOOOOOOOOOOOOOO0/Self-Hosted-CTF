@@ -21,4 +21,13 @@ python start.py
 
 <h1></h1>
 
-**Code Example**
+**How To Start**
+```python
+Start the start.py file.
+```
+```python
+Start the start.py file.
+```
+```python
+Head to localhost:1337
+```
