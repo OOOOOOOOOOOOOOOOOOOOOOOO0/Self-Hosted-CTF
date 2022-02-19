@@ -11,7 +11,6 @@
 
 ```
 git clone https://github.com/execution/Self-Hosted-CTF.git
-
 ```
 ```
 cd Self-Hosted-CTF
