@@ -26,8 +26,5 @@ python start.py
 Start the start.py file.
 ```
 ```python
-Start the start.py file.
-```
-```python
 Head to localhost:1337
 ```
