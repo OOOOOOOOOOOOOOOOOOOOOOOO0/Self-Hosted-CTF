@@ -28,3 +28,6 @@ Start the start.py file.
 ```python
 Head to localhost:1337
 ```
+```python
+Find the flag! Good luck!
+```
