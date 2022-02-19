@@ -5,7 +5,6 @@ import json
 # Date: 19/02/2022
 # Author: execution
 
-
 app = Flask(__name__)
 #app.config['DEBUG'] = True
 
