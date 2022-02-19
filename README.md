@@ -22,23 +22,3 @@ python start.py
 <h1></h1>
 
 **Code Example**
-
-```python
-from C0mptCrypt import C0mptCrypt
-
-string = input("Enter string: ")
-
-enc = C0mptCrypt().Encrypt(string)
-
-print(enc)
-```
-
-```python
-from C0mptCrypt import C0mptCrypt
-
-string = input("Enter encrypted string: ")
-
-enc = C0mptCrypt().Decrypt(string)
-
-print(enc)
-```
