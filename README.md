@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://www.nicepng.com/png/full/395-3955868_security-shield-lock-icon.png" width="150px"><br>
+	<img src="https://d19ta9rijs3cxg.cloudfront.net/wp-content/uploads/2019/05/Nulab-Capture-the-Flag-CTF-Challenge-Blog.png" width="150px"><br>
     Self Hosted CTF - A fun Capture The Flag-like game for beginners to enchance their web request skills!
 </h1>
 <p align="center">
