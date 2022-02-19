@@ -2,7 +2,7 @@ import requests
 
 # The challenge was to use POST request data. The username and password returns the flag
 
-URL = "https://post-ctf.argue.repl.co/challenge" # URL Variable
+URL = "http://127.0.0.1:1337/challenge" # URL Variable
 
 DATA = { # The username and password as seen in the source code
   "username": "cats",
