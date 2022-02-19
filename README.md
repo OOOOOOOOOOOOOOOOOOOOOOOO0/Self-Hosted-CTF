@@ -3,7 +3,6 @@
     Self Hosted CTF - A fun Capture The Flag-like game for beginners to enchance their web request skills!
 </h1>
 
-<h1></h1>
 
 **Install**
 
