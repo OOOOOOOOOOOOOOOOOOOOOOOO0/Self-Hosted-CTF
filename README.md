@@ -15,7 +15,7 @@ git clone https://github.com/execution/Self-Hosted-CTF.git
 ```
 cd Self-Hosted-CTF
 ```
-```py
+```python
 python start.py
 ```
 
