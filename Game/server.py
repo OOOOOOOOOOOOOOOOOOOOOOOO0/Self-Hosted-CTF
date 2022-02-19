@@ -1,36 +1,12 @@
 from flask import Flask, request, redirect
 import json
 
-
+# server.py
+# Date: 19/02/2022
+# Author: execution
 
 
 # Code is down there incase you haven't completed the challenge :3
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
