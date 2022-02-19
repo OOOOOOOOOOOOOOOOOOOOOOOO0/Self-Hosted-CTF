@@ -2,7 +2,9 @@
 	<img src="https://www.nicepng.com/png/full/395-3955868_security-shield-lock-icon.png" width="150px"><br>
     Self Hosted CTF - A fun Capture The Flag-like game for beginners to enchance their web request skills!
 </h1>
-
+<p align="center">
+    Please only open the "Answer" directory if you have! completed the challenge
+</p>
 
 **Install**
 
