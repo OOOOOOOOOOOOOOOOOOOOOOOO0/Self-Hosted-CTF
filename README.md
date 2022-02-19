@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://d19ta9rijs3cxg.cloudfront.net/wp-content/uploads/2019/05/Nulab-Capture-the-Flag-CTF-Challenge-Blog.png" width="150px"><br>
+	<img src="http://clipart-library.com/img/2097656.jpg" width="150px"><br>
     Self Hosted CTF - A fun Capture The Flag-like game for beginners to enchance their web request skills!
 </h1>
 <p align="center">
