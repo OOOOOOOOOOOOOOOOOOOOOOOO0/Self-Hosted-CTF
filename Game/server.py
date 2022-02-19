@@ -4,7 +4,7 @@ import json
 app = Fask(__name__)
 app.config['DEBUG'] = True
 
-with open('details.json', 'r') as fp:
+with open('./details.json', 'r') as fp:
     config = json.load(fp)
 
 username = config['username']
