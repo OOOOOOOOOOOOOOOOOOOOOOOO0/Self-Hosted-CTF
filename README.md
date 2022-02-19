@@ -9,7 +9,14 @@
 **Install**
 
 ```
-pip install git+https://github.com/execution/C0mptCrypt
+git clone https://github.com/execution/Self-Hosted-CTF.git
+
+```
+```
+cd Self-Hosted-CTF
+```
+```
+python start.py
 ```
 
 <h1></h1>
