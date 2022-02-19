@@ -22,7 +22,7 @@ def index():
 @app.route('/challenge', methods=['POST', 'GET'])
 def challenge():
   if request.method == 'POST' and request.form['username'] == username and request.form['password'] == password:
-    return f"Congratulations! You completed the challenge, the flag is: {flag}\n\n\n\n\nIf you'd like to read the source code of this challenge: https://replit.com/@Argue/POST-CTF"
+    return f"Congratulations! You completed the challenge, the flag is: {flag}"
   else:
     return f"<title>CTF</title> <h1> Welcome to C0mpt0's POST Request CTF Challenge, this site takes <b>POST</b> data only, the challenge is to find the flag, goodluck </h1><!--- username: {username} | password: {password}, what can you do with this data?---!> <small> hint: fnhpr, i love rot13! </small>"
 
