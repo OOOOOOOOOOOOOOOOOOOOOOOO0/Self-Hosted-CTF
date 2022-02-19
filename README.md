@@ -3,7 +3,8 @@
     Self Hosted CTF - A fun Capture The Flag-like game for beginners to enchance their web request skills!
 </h1>
 <p align="center">
-    Test your web skills with this amateur CTF challenge game! \n Note: Please only open the "Answer" directory if you have completed the challenge!
+    Test your web skills with this amateur CTF challenge game! <br>
+	Note: Please only open the "Answer" directory if you have completed the challenge!</br>
 </p>
 
 **Install**
