@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://pasteboard.co/51zsbtTK7Z7o.jpg" width="150px"><br>
+	<img src="https://i.postimg.cc/KjLpyw0H/flag-removebg-preview.png" width="150px"><br>
     Self Hosted CTF - A fun Capture The Flag-like game for beginners to enchance their web request skills!
 </h1>
 <p align="center">
